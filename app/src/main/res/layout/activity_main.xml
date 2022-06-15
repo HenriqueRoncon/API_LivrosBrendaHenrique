@@ -37,7 +37,7 @@
                     android:backgroundTint="#081147"
                     android:fontFamily="monospace"
                     android:onClick="buscaLivros"
-                    android:text="Button"
+                    android:text="BUSCAR"
                     android:textSize="14sp"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/SearchLivro" />
